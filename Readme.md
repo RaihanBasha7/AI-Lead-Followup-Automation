@@ -21,5 +21,4 @@ An AI-driven automation system that follows up with leads automatically based on
 
 ## Author
 **Shaik Raihan Basha** 
-
 Automations | AI Enthusiast 
