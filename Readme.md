@@ -20,5 +20,5 @@ An AI-driven automation system that follows up with leads automatically based on
 - Lead nurturing pipelines
 
 ## Author
-**Shaik Raihan Basha** 
+**Shaik Raihan Basha** <br> 
 Automations | AI Enthusiast 
